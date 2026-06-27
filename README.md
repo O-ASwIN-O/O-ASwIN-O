@@ -1,4 +1,4 @@
-````markdown
+
 <div align="center">
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Hey,%20I'm%20ASWIN%20M%20👋&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Data%20Science%20%7C%20Data%20Analytics%20%7C%20ML%20%26%20AI%20Enthusiast&descAlignY=62&descSize=20&animation=fadeIn"/>
@@ -143,4 +143,4 @@ currently:
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer"/>
 
 </div>
-````
+
