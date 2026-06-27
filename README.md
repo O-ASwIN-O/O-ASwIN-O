@@ -1,8 +1,8 @@
-<div align="center">
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=34&duration=3000&pause=1000&center=true&vCenter=true&width=900&lines=Hi+👋,+I'm+ASWIN+M;Data+Science+Enthusiast;Machine+Learning+Engineer;Data+Analyst;Python+Developer"/>
+</p>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=230&color=gradient&customColorList=12,20,24&text=ASWIN%20M&fontSize=55&fontColor=ffffff&animation=fadeIn&desc=Data%20Science%20%7C%20Data%20Analytics%20%7C%20ML%20%26%20AI%20Enthusiast&descAlignY=62"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=700&lines=Data+Science+Enthusiast;Data+Analytics+Learner;Machine+Learning+Enthusiast;AI+Explorer;Python+Developer" />
 
 <br>
 
